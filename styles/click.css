@@ -1,7 +1,4 @@
 .click{
-    display: inline-block;
-    align-items: center;    
-    justify-content: center;
     margin: 5px;
     padding: 3px;
     gap: 15px;
@@ -12,9 +9,7 @@
 }
 
 .click-costumize{
-    width: 2000px;
-    align-items: center;
-    display: inline-block;
+    align-items: center; 
     justify-content: center;
     margin: 5px;
     padding: 5px;
