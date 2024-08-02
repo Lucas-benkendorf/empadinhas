@@ -1,0 +1,22 @@
+.click{
+    display: inline-block;
+    align-items: center;    
+    justify-content: center;
+    margin: 5px;
+    padding: 3px;
+    gap: 15px;
+}
+
+.btn{
+    text-decoration: none;
+}
+
+.click-costumize{
+    width: 2000px;
+    align-items: center;
+    display: inline-block;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+    gap: 15px;
+}
