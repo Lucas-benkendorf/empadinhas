@@ -25,7 +25,7 @@ body{
   background-color: #ffffff;
   padding: 20px;
   border-radius: 2px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   max-width: 800px;
   text-align: center;
   align-items: center;
@@ -52,3 +52,31 @@ body{
   align-items: center;
   width: 2000px;
  }
+
+.fnt-bold{
+
+  font-weight: 800;
+  font-size: larger;
+}
+
+.dsp-flex{
+  display: flex;
+  justify-content: left;
+  flex-wrap: nowrap;
+}
+
+.mrg{
+ padding: 10px;
+}
+
+.bg-yellow{
+  background-color: yellow;
+}
+
+.bold-text{
+  font-weight: bold;
+}
+
+.fntsize{
+  font-size: 28px;
+}
