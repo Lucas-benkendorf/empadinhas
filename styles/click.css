@@ -1,4 +1,4 @@
-.click{
+.click {
     margin: 5px;
     padding: 3px;
     gap: 15px;
@@ -6,12 +6,12 @@
     justify-content: center;
 }
 
-.btn{
+.btn {
     text-decoration: none;
 }
 
-.click-costumize{
-    align-items: stretch; 
+.click-costumize {
+    align-items: stretch;
     justify-content: space-between;
     margin: 5px;
     padding: 5px;

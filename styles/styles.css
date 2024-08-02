@@ -1,9 +1,9 @@
-body{
+body {
   display: flex;
   flex-direction: column;
   justify-content: top;
   height: 100vh;
- 
+
   align-items: center;
   background-color: #FFFFE0;
   width: 100%;
@@ -11,7 +11,7 @@ body{
 
 }
 
-.container-costumize{
+.container-costumize {
   background-color: #FFD700;
   padding: 20px;
   border-radius: 8px;
@@ -31,61 +31,65 @@ body{
   align-items: center;
 }
 
- h2 {
+h2 {
   color: #fcb045;
   font-size: 28px;
   margin-bottom: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
- }
+}
 
- p {
+p {
   display: flex;
   align-items: center;
   justify-content: center;
- }
+}
 
- .center-costumize{
+.center-costumize {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 2000px;
- }
+}
 
-.fnt-bold{
+.fnt-bold {
 
   font-weight: 800;
   font-size: larger;
 }
 
-.dsp-flex{
+.dsp-flex {
   display: flex;
   justify-content: left;
   flex-wrap: nowrap;
 }
 
-.mrg{
- padding: 10px;
+.mrg {
+  padding: 10px;
 }
 
-.bg-yellow{
+.bg-yellow {
   background-color: yellow;
 }
 
-.bold-text{
+.bold-text {
   font-weight: bold;
 }
 
-.fntsize{
+.fntsize {
   font-size: 28px;
 }
 
 
-.alinhar{
-  align-items: stretch; 
+.alinhar {
+  align-items: stretch;
   justify-content: space-between;
   margin: 5px;
   padding: 5px;
   gap: 15px;
+}
+
+.fnt-40 {
+  font-size: 40px;
 }

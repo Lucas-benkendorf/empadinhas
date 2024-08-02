@@ -1,22 +1,30 @@
-.sobreNos-img{
+.sobreNos-img {
     border-radius: 50%;
-    
+
 }
 
 .img-redonda {
-    width: 150px;  
-    height: 150px; 
-    border-radius: 50%; 
-    object-fit: cover; 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
 }
+
 .container-imagem {
     text-align: center;
     margin: 20px;
 }
+
 .nome {
     font-weight: bold;
     margin-top: 10px;
 }
+
 .cargo {
     color: grey;
+}
+
+.img-cardapio {
+    display: block;
+    margin: 0 auto;
 }
