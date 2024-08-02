@@ -3,7 +3,7 @@ body{
   flex-direction: column;
   justify-content: top;
   height: 100vh;
-  border: 1px solid #000;
+ 
   align-items: center;
   background-color: #FFFFE0;
   width: 100%;
@@ -79,4 +79,13 @@ body{
 
 .fntsize{
   font-size: 28px;
+}
+
+
+.alinhar{
+  align-items: stretch; 
+  justify-content: space-between;
+  margin: 5px;
+  padding: 5px;
+  gap: 15px;
 }
