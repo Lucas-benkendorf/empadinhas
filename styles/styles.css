@@ -82,11 +82,9 @@ p {
 
 
 .alinhar {
-  align-items: stretch;
-  justify-content: space-between;
-  margin: 5px;
-  padding: 5px;
-  gap: 15px;
+  display: block;
+  align-items: center;
+  justify-content: center;
 }
 
 .fnt-40 {
