@@ -90,3 +90,8 @@ p {
 .fnt-40 {
   font-size: 40px;
 }
+
+.card-tamanho{
+width: 50vw;
+height: 30vw;
+}
