@@ -95,3 +95,7 @@ p {
 width: 50vw;
 height: 30vw;
 }
+
+.paragrafo{
+  text-indent: 10px;
+}
